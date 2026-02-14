@@ -18,7 +18,7 @@ Power BI • Financial Analytics • Accounts Receivable Management
 - **Financial Analytics**
 
 - **Accounts Receivable / Credit Control Concepts**
-  - Aging buckets
+  - Ageing buckets
   - Days Sales Outstanding (DSO)
   - Overdue risk monitoring
   - Cash flow forecasting
