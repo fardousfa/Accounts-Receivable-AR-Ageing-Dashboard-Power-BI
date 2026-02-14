@@ -1,4 +1,4 @@
-# 📊 Accounts Receivable Aging Dashboard
+# 📊 Accounts Receivable Ageing Dashboard
 
 Power BI • Financial Analytics • Accounts Receivable Management
 
